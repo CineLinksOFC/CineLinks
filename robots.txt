@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cinelinksofc.github.io/CineLinks/sitemap.xml
